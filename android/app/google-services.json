@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "691714273185",
+    "project_id": "te-mobileapp",
+    "storage_bucket": "te-mobileapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691714273185:android:6256841a7e2cb0f3ec65e0",
+        "android_client_info": {
+          "package_name": "com.example.tutor_eye"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691714273185-69jpn2tcn71blcb7cda3h4ad7294jsel.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tutor_eye",
+            "certificate_hash": "a93ec6100051c065e6aba555508eaeb6885adfb9"
+          }
+        },
+        {
+          "client_id": "691714273185-askr2q5hngkrjk0hikpuitjmtl9cts2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAkcXKZcsk0vSR6xq3qaQKmFzMuEs4Lww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691714273185-askr2q5hngkrjk0hikpuitjmtl9cts2h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
